@@ -1,0 +1,6 @@
+package inheritance;
+
+
+class oid {
+
+}
